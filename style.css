@@ -20,8 +20,8 @@
   h1 {
     margin-bottom: 2rem;
     font-size: 5vw;
-    font-weight: bold;
-    line-height: 1.4em;
+    font-weight: regular;
+    line-height: 1.2em;
   }
   
   h2 {
@@ -50,14 +50,14 @@
   blockquote {
     margin-top: var(--spacing);
     font-size: 2rem;
-    font-style: italic;
+    font-style: regular;
     text-align: center;
   }
   
   cite {
     display: block;
     margin-top: 1rem;
-    font-style: normal;
+    font-style: italic;
     font-size: 1rem;
   }
   
