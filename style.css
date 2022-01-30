@@ -133,6 +133,8 @@
   
   .article-img {
     margin-bottom: 2rem;
+    border: 2px rgb(8, 92, 85);
+    padding: 2px;
   }
   
   .contact {
@@ -228,6 +230,8 @@
       margin-bottom: 2rem;
       margin-left: 2em;
       object-fit: cover;
+      padding: 2rem;
+      border: 2px solid var(--button-color);
     }
   }
   
